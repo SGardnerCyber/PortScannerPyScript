@@ -35,3 +35,6 @@ except KeyboardInterrupt:
 except socket.error:
     print("\ Host not resonding :(")
     sys.exit()
+
+
+#Credit @CyberFault on YouTube.
